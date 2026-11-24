@@ -2,7 +2,7 @@
 
 A responsive banking dashboard demo with account management, money movement, cards, and spending insights.
 
-**Live demo:** Coming soon
+**Live demo:** [nova-bank-demo-sand.vercel.app](https://nova-bank-demo-sand.vercel.app)
 
 ## Features
 
@@ -17,5 +17,3 @@ A responsive banking dashboard demo with account management, money movement, car
 Nova Bank is a fictional UI prototype. It is not a real financial service, does not connect to a bank, and must not be used for real transactions. Demo data is stored locally in the browser; this version has no backend.
 
 This public repository intentionally contains only this project overview; the application source is not included.
-
-Once deployed, replace “Coming soon” with the public app URL.
