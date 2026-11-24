@@ -16,6 +16,6 @@ A responsive banking dashboard demo with account management, money movement, car
 
 Nova Bank is a fictional UI prototype. It is not a real financial service, does not connect to a bank, and must not be used for real transactions. Demo data is stored locally in the browser; this version has no backend.
 
-The application source is kept in a separate private repository. This public repository intentionally contains only this project overview.
+This public repository intentionally contains only this project overview; the application source is not included.
 
 Once deployed, replace “Coming soon” with the public app URL.
